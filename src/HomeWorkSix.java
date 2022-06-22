@@ -63,7 +63,7 @@ public class HomeWorkSix {
         double[] greaterMin = new double[array.length];
         // elements greater than the min
         for (int i = 0; i < array.length;i++){
-            if (minValue < array[i]) {
+            if (minValue <src array[i]) {
                 greaterMin[i] = array[i]; // adding to a new array
                 System.out.println("These numbers are greater then average " +greaterMin[i]);
             }
